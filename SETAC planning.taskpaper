@@ -1,0 +1,12 @@
+Electricity:
+- Create CT for ecoinvent-ENTSO (with weights)
+	Notebook in this directory
+- Notebook with transformation of bentso output to presamples
+	- Needs CT and correspondentia to work
+- MC calculations with/without
+- Wurst: Empty out med/low voltage markets
+
+Car model:
+- Rewrite car library (coarse)
+- Create parameterized presamples
+- MC calculations with/without
