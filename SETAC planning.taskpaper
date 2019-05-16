@@ -1,12 +1,17 @@
-Electricity:
-- Create CT for ecoinvent-ENTSO (with weights)
-	Notebook in this directory
-- Notebook with transformation of bentso output to presamples
-	- Needs CT and correspondentia to work
-- MC calculations with/without
-- Wurst: Empty out med/low voltage markets
-
 Car model:
 - Rewrite car library (coarse)
 - Create parameterized presamples
 - MC calculations with/without
+
+Archive:
+	- Create CorTables for ecoinvent-ENTSO (with weights) @done
+		Notebook in this directory
+	- Notebook with transformation of bentso output to presamples @done
+		- Needs CorTables and correspondentia to work @done
+	- MC calculations with/without @done
+		Wurst:
+		- Empty out med/low voltage markets (exists already) @done
+		- Add empty exchanges to high voltage (needed for presamples) @done
+			- Generation and trade @done
+		- Calculate fractions of generation (all the way to low voltage) for all sources @done
+			Needed for allocation
