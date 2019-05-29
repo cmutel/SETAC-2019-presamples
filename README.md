@@ -2,6 +2,8 @@
 
 Materials and methods for SETAC 2019 presentation.
 
-## Electricity grid mixes
+The presentation itself is also here (as a PDF).
 
-`Create correspondence table ENTSO Ecoinvent.ipynb`: Documents process of creating correspondence tables for use by [correspondentia](https://github.com/BONSAMURAIS/correspondentia) from ENTSO-E to ecoinvent 3.5 nomenclature.
+## Electricity grid mixes (ENTSO-case-study)
+
+Follow the notebooks in numeric order
